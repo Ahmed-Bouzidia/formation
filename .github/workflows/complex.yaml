@@ -25,11 +25,6 @@ jobs:
       - name: date du jour
       - run: date
 
-    runs-on: ubuntu-latest
-    steps:
-      - name: date du jour
-      - run: date 
-
 
   job3:
     name: third job
